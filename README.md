@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Faris
 
-## ✨ My DevCard
-<a href="https://app.daily.dev/fari_yey"><img src="https://api.daily.dev/devcards/v2/k4pQRbkDElGW5kPtlcybp.png?type=wide&r=0sq" width="100%" alt="Faris Shamsudeen's Dev Card"/></a>
 
 🌟 **Aspiring MERN Stack Developer**  
 💻 Passionate about creating dynamic web applications with modern technologies.  
