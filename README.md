@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies I Work With:
 
-- **Frontend**: React.js, HTML, CSS, JavaScript (ES6+)
+- **Frontend**: HTML, CSS, JavaScript (ES6+), React.js (Loading)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, Postman, Figma, VS Code
@@ -19,13 +19,7 @@
 
 ## 📂 Projects:
 
-### [Chronix - Luxurious Watch E-commerce Platform](https://github.com/FarisShamsudeen/Chronix)
-A complete e-commerce application for luxury watches, featuring:  
-- **User Authentication**: Signup, Login, OTP verification, Google OAuth.  
-- **Dynamic Pages**: Home, Explore, Product Details, Cart, Wishlist, Checkout.  
-- **Admin Dashboard**: Manage users, products, orders, offers, and more.  
-- **Payment Gateway**: Integration with Razorpay and Cash-on-Delivery option.  
-- **Order Management**: View, cancel, and update order statuses in real-time.
+**Loading....**
 
 ---
 
@@ -53,7 +47,7 @@ A complete e-commerce application for luxury watches, featuring:
 ## 📫 Let's Connect!
 
 - **LinkedIn**: [@farisshamsudeen](https://www.linkedin.com/in/farisshamsudeen/)
-- **Email**: faris.shamsudeen@example.com
+- **Email**: faris52342345@gmail.com
 - **Leetcode**: [@FarisShamsudeen](https://leetcode.com/u/FarisShamsudeen/)
 
 ---
